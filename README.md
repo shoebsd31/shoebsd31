@@ -6,7 +6,6 @@
 ### Hi there 👋
 I am Shoeb Sayyed. I am a passionate problem solver with keen interest in many different aspects of software development. I have 10+ years of experience in software develoment. Currently I am learning about Blockchain technologies. Here's my [Portfolio]((https://shoebsayyed.com) 
 
-<!-- Pinned Repositories -- >
 <br>
 
 ## 📌 Pinned Repositories
@@ -34,7 +33,6 @@ I am Shoeb Sayyed. I am a passionate problem solver with keen interest in many d
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shoebsd31&repo=solHelloWorld&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<!-- GitHub Stats -- >
 <br>
 
 ## &#x1f4c8; GitHub Stats
