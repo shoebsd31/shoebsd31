@@ -1,5 +1,5 @@
 <p align="center">
-<h2 align="center">GitHub Readme Stats</h2>
+<h2 align="center">Shoeb Sayyed</h2>
 </p>
 <br><br>
 
