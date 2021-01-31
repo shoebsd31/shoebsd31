@@ -1,11 +1,16 @@
-[![Shoeb's GitHub Banner](./assets/shoeb.jpg)](https://shoebsayyed.com)
+<p align="center">
+<h2 align="center">GitHub Readme Stats</h2>
+</p>
+<br><br>
 
-
+<p align="center">
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shoebsayyed/)
-
+</p>
+<br>
+<p align="center">
 ### Hi there 👋
 I am Shoeb Sayyed. I am a passionate problem solver with keen interest in many different aspects of software development. I have 10+ years of experience in software develoment. Currently I am learning about Blockchain technologies. Here's my [Portfolio]((https://shoebsayyed.com) 
-
+</p>
 <br>
 
 ## 📌 Pinned Repositories
@@ -35,15 +40,17 @@ I am Shoeb Sayyed. I am a passionate problem solver with keen interest in many d
 
 <br>
 
+
+
 ## &#x1f4c8; GitHub Stats
 
 <br>
 <a href="https://github.com/shoebsd31">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoebsd31&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoebsd31&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34&langs_count=10" />
 </a>
-
+<br><br>
 <a href="https://github.com/shoebsd31">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=shoebsd31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=shoebsd31&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Shoeb's GitHub Stats" />
 </a>
 
 
