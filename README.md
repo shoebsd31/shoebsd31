@@ -5,6 +5,10 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shoebsayyed/)
 
+![counter](https://envx0wpml2a55ed.m.pipedream.net?username=shoebsd31&style=flat-square)
+
+
+
 ### Hi there 👋
 I am Shoeb Sayyed. I am a passionate problem solver with keen interest in many different aspects of software development. I have 10+ years of experience in software develoment. Currently I am learning about Blockchain technologies. Here's my [profile](https://shoebsayyed.com) 
 
