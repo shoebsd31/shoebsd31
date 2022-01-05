@@ -10,7 +10,7 @@
 
 
 ### Hi there 👋
-I am Shoeb Sayyed. I am a passionate problem solver with keen interest in many different aspects of software development. I have 10+ years of experience in software develoment. Currently I am learning about Blockchain technologies. Here's my [profile](https://shoebsayyed.com) 
+I am Shoeb Sayyed. I am a passionate problem solver with keen interest in many different aspects of software development. I have 10+ years of experience in software develoment. Currently I am learning about Blockchain technologies. Here's my [profile](https://shoeb.io) 
 
 <br>
 
