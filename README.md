@@ -17,8 +17,8 @@ I am Shoeb Sayyed. I am a passionate problem solver with keen interest in many d
 ## 📌 Pinned Repositories
 
 <br>
-<a href="https://github.com/shoebsd31/dotnetblockchain">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shoebsd31&repo=dotnetblockchain&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/shoebsd31/formfiller">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shoebsd31&repo=formfiller&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
@@ -35,8 +35,8 @@ I am Shoeb Sayyed. I am a passionate problem solver with keen interest in many d
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shoebsd31&repo=myreads&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/shoebsd31/solHelloWorld">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shoebsd31&repo=solHelloWorld&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/shoebsd31/speech2text">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shoebsd31&repo=speech2text&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
